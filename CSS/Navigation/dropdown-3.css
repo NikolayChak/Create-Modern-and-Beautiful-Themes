@@ -1,0 +1,26 @@
+.dropdown-3 {
+    width: 40rem;
+    height: 47rem;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 1rem 2rem 2rem 2rem;
+}
+
+.product {
+    margin: 1.7rem 0;
+}
+
+.dropdown-3 button {
+    width: 100%;
+    height: 4rem;
+    background-color: #9544ec;
+    border: none;
+    border-radius: 2rem;
+    font-size: 1.4rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 0.1rem;
+    cursor: pointer;
+    transform: translateY(1rem);
+}
